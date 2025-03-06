@@ -3,9 +3,8 @@
 
 This is a simple **E-Commerce Website** designed using **HTML, CSS, and JavaScript** with user authentication and catalog browsing functionalities. The project includes **login, registration, catalog, and cart pages**, offering a basic structure for an online shopping platform.
 
-## 🎥 Project Demo  
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
-📌 *Click the image above to watch the demo on YouTube.*  
+## 📽️ Project Demo  
+🔗 [Watch the Demo](https://youtu.be/6zqKKEZWdn4)  
 
 ## 📌 Features
 - 🛍️ **User Authentication**: Login and Registration system.
